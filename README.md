@@ -91,3 +91,7 @@ JVM内存配置参数
 因此在类方法中不能用this来调用本类方法，通过类名直接调用。
 实例方法必须创建对象（new） 。
 
+
+容器集合类之间的关系
+
+![image](https://github.com/a408228147/photo/blob/master/photo/collection.jpg)
